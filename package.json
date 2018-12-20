@@ -1,20 +1,20 @@
 {
-  "name": "bitandbang",
-  "version": "1.1.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "christopr",
+  "version": "1.0.0",
+  "description": "A personal card for Christofer Flores (@Christo_PR)",
   "main": "index.js",
   "bin": {
     "bitandbang": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/CrystalStream/bitandbang"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Christofer Flores <cristofer.flort@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",
